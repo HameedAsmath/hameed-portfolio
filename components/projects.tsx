@@ -167,7 +167,7 @@ export function Projects() {
                       <Github className="w-4 h-4" />
                       GitHub
                     </motion.a>
-                    <motion.a
+                    {/* <motion.a
                       href="#"
                       className="inline-flex items-center gap-2 text-sm font-medium text-muted-foreground hover:text-foreground transition-colors"
                       whileHover={{ x: 3 }}
@@ -175,7 +175,7 @@ export function Projects() {
                     >
                       <ExternalLink className="w-4 h-4" />
                       Live Demo
-                    </motion.a>
+                    </motion.a> */}
                   </div>
                 </div>
               </motion.div>
